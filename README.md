@@ -18,7 +18,9 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 
 ### list of resources needed
 *swim suit
+
 *extra clothes
+
 *water bottels
 *Camera
 *medicine in emergency kit
