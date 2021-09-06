@@ -22,7 +22,9 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 *extra clothes
 
 *water bottels
+
 *Camera
+
 *medicine in emergency kit
 
 
