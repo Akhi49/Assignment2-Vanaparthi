@@ -16,5 +16,11 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 
 >Nested!
 
+### list of resources needed
+*swim suit
+*extra clothes
+*water bottels
+*Camera
+*medicine in emergency kit
 
 
