@@ -20,9 +20,9 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 >Nested!
 
 ### list of resources needed
-*swim suit
+* swim suit
 
-    *EXTRA
+    * EXTRA
 
 - extra clothes
 
