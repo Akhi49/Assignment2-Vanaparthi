@@ -9,17 +9,25 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 1.Bus to Kansas City
     1.fly to Toronto    
     2.train
+
 2.UP Express Pearson Airport
+
 3.Toronto Union Station
+
 4.Niagara Falls GO
+
 >Nested!
 
 ### list of resources needed
 *swim suit
     *EXTRA
+
 *extra clothes
+
 *water bottels
+
 *Camera
+
 *medicine in emergency kit
 
 
