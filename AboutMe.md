@@ -16,8 +16,11 @@ This table shows you the food and drinks to try in **NWMSU** student union.
 ****************************************************
 ### Quote of the Day!!
 <blockquote>
+
  The future belongs to those who believe in the beauty of their dreams. 
+
  ***-Eleanor Roosevelt***
+ 
  </blockquote>
 
 
