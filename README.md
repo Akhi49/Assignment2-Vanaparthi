@@ -32,6 +32,7 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 
 - medicine in emergency kit
 
-Link to About me<>
+Link to About me 
+<https://github.com/Akhi49/Assignment2-Vanaparthi/blob/main/AboutMe.md>
 
 
