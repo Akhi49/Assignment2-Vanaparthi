@@ -14,8 +14,13 @@ This table shows you the food and drinks to try in **NWMSU** student union.
 | iced caramel macchiato | Starbucks | $5 |
 
 ****************************************************
-### Code Fencing
-<blockqoute wikipedia>
+### Quote of the Day!!
+<blockquote>
+ The future belongs to those who believe in the beauty of their dreams. 
+ ***-Eleanor Roosevelt***
+ </blockquote>
+
+
 
 
 
