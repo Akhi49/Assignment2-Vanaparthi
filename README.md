@@ -24,12 +24,14 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 
     *EXTRA
 
-*extra clothes
+- extra clothes
 
-*water bottels
+- water bottels
 
-*Camera
+- Camera
 
-*medicine in emergency kit
+- medicine in emergency kit
+
+Link to About me<>
 
 
