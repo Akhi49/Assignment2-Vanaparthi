@@ -6,16 +6,16 @@ lake for fishing and we do swim,every festival is celebrated  colorfully.
 *******************
 # TRAVELLING
 
-1.Bus to Kansas City
+1. Bus to Kansas City
 
-    1.fly to Toronto    
-    2.train
+    1. fly to Toronto    
+    2. train
 
-4.UP Express Pearson Airport
+4. UP Express Pearson Airport
 
-3.Toronto Union Station
+3. Toronto Union Station
 
-4.Niagara Falls GO
+4. Niagara Falls GO
 
 >Nested!
 
