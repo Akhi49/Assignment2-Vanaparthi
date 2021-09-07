@@ -20,9 +20,15 @@ This table shows you the food and drinks to try in **NWMSU** student union.
  The future belongs to those who believe in the beauty of their dreams. 
 
  ***-Eleanor Roosevelt***
- 
+
  </blockquote>
 
+<blockquote>
+
+ "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+
+ ***-Mother Teresa***
+ </blockquote>
 
 
 
