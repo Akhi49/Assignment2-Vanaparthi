@@ -82,6 +82,7 @@ void prim() {
     cout << total_weight << endl;
 }
 ```
+
 <https://cp-algorithms.com/graph/mst_prim.html>
 
 
