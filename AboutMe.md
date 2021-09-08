@@ -15,31 +15,27 @@ This table shows you the food and drinks to try in **NWMSU** student union.
 
 ****************************************************
 ### Quotes
-<blockquote>
 
- The future belongs to those who believe in the beauty of their dreams. 
 
- ***-Eleanor Roosevelt***
+> The future belongs to those who believe in the beauty of their dreams. 
 
- </blockquote>
+ *-Eleanor Roosevelt*
 
-<blockquote>
+ 
 
- "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+> "Spread love everywhere you go. Let no one ever come to you without leaving happier."
 
- ***-Mother Teresa***
- </blockquote>
+ *-Mother Teresa*
+ 
 
  *************************************************
  ### Code Fencing
 
- <blockquote>
+ 
 
- A group of edges that connects two set of vertices in a graph is called cut in graph theory. So, at every step of Prim’s algorithm, we find a cut (of two sets, one contains the vertices already included in MST and other contains rest of the vertices), pick the minimum weight edge from the cut and include this vertex to MST Set.
+ > A group of edges that connects two set of vertices in a graph is called cut in graph theory. So, at every step of Prim’s algorithm, we find a cut (of two sets, one contains the vertices already included in MST and other contains rest of the vertices), pick the minimum weight edge from the cut and include this vertex to MST Set.
 
  <https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/>
-
-</blockquote>
 
 ```int
 int n;
