@@ -2,7 +2,7 @@
 I love to workout everyday and mostly enjoy on weekends.
 
 
-<C:\Users\S545658\Pictures\Saved Pictures>
+![Photo](/NWMSU.jpg)
 *************************************************************
 # FOOD AND DRINKS!!
 This table shows you the food and drinks to try in **NWMSU** student union.
@@ -55,14 +55,14 @@ void prim() {
     vector<bool> selected(n, false);
     vector<Edge> min_e(n);
     min_e[0].w = 0;
-    ```for
+    ```
     for (int i=0; i<n; ++i) {
         int v = -1;
         for (int j = 0; j < n; ++j) {
             if (!selected[j] && (v == -1 || min_e[j].w < min_e[v].w))
                 v = j;
         }
-        ```if
+        ```
         if (min_e[v].w == INF) {
             cout << "No MST!" << endl;
             exit(0);
