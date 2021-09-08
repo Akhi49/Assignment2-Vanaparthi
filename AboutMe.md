@@ -14,7 +14,7 @@ This table shows you the food and drinks to try in **NWMSU** student union.
 | iced caramel macchiato | Starbucks | $5 |
 
 ****************************************************
-### Quote of the Day!!
+### Quotes
 <blockquote>
 
  The future belongs to those who believe in the beauty of their dreams. 
@@ -29,6 +29,19 @@ This table shows you the food and drinks to try in **NWMSU** student union.
 
  ***-Mother Teresa***
  </blockquote>
+
+ *************************************************
+ ### Code Fencing
+
+ <blockquote>
+
+ An Eulerian path on a graph is a traversal of the graph that passes through each edge exactly once, and the study of these paths came up in their relation to problems studied by Euler in the 18th century.
+
+<https://brilliant.org/wiki/eulerian-path/>
+
+</blockquote>
+
+
 
 
 
